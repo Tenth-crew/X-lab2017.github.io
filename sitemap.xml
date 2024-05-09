@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>Noneabout/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/about/"/>
+    </url>
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Nonemembers/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/members/"/>
+    </url>
+    <url>
+        <loc>Noneblog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/"/>
+    </url>
+    <url>
+        <loc>Noneproject/hypercrx%20README/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/hypercrx%20README/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/hypercrx%20README/"/>
+    </url>
+    <url>
+        <loc>Noneproject/opendigger%20README/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/opendigger%20README/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/opendigger%20README/"/>
+    </url>
+    <url>
+        <loc>Noneproject/projects/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/projects/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/projects/"/>
+    </url>
+    <url>
+        <loc>Nonezh/about/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+    </url>
+    <url>
+        <loc>Nonezh/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonezh/members/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/members/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/blog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/Using%20knowledge%20units%20of%20programming%20languages%20to_recommend%20reviewers%20for%20pull%20requests_%20an%20empirical%20study/"/>
+    </url>
+    <url>
+        <loc>Nonezh/project/hypercrx%20README/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/hypercrx%20README/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/hypercrx%20README/"/>
+    </url>
+    <url>
+        <loc>Nonezh/project/opendigger%20README/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/opendigger%20README/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/opendigger%20README/"/>
+    </url>
+    <url>
+        <loc>Nonezh/project/projects/</loc>
+        <lastmod>2024-05-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/project/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneproject/projects/"/>
+    </url>
+</urlset>
